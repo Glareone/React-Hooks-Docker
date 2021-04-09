@@ -16,5 +16,5 @@
 ### Use Ref
 [Use Ref Example](https://codesandbox.io/s/glareone-useref-example-jb0li?file=/src/App.js)
 
-### Custom Hook
+### Custom Hook (useState custom hook)
 [Use Custom Hooks](https://codesandbox.io/s/glareone-custom-hooks-example-22h2i?file=/src/App.js)
