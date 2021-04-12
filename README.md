@@ -1,4 +1,7 @@
 # React-Hooks
+Interesting Sites:  
+* [USE HOOKS](https://usehooks.com/)
+* [RW;ERUCH](https://www.robinwieruch.de/blog)
 
 ### Use State
 [Use State Example](https://codesandbox.io/s/glareone-usestate-initial-28q54)
