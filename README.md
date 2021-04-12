@@ -19,7 +19,7 @@ Interesting Sites:
 ### Use Ref
 [Use Ref Example](https://codesandbox.io/s/glareone-useref-example-jb0li?file=/src/App.js)
 
-### Custom Hook (useState custom hook)
+### Custom Hook (useState custom hook, useFetch custom hook)
 [Use Custom Hooks Example](https://codesandbox.io/s/glareone-custom-hooks-example-22h2i?file=/src/App.js)  
 [UseFetch Custom Hook (Call to Github)](https://codesandbox.io/s/glareone-usefetch-bb3cr?file=/src/App.js)  
 
