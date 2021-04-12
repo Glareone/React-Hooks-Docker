@@ -21,10 +21,10 @@ Interesting Sites:
 
 ### Custom Hook (useState custom hook, useFetch custom hook)
 [Use Custom Hooks Example](https://codesandbox.io/s/glareone-custom-hooks-example-22h2i?file=/src/App.js)  
-[UseFetch Custom Hook (Call to Github)](https://codesandbox.io/s/glareone-usefetch-bb3cr?file=/src/App.js)  
+[UseFetch Custom Hook (Call to Github) Example](https://codesandbox.io/s/glareone-usefetch-bb3cr?file=/src/App.js)  
 
 ### Context: CreateContext, UseContext
 [Context Example](https://codesandbox.io/s/glareone-context-example-liej5?file=/src/AppInner.js)
 
 ### Context + Custom Hook for Context
-[Context & Custom Hook](https://codesandbox.io/s/glareone-context-customhook-example-th6bg?file=/src/AppInner.js)
+[Context & Custom Hook Example](https://codesandbox.io/s/glareone-context-customhook-example-th6bg?file=/src/AppInner.js)
