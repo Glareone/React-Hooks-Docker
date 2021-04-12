@@ -21,3 +21,6 @@
 
 ### Context: CreateContext, UseContext
 [Context Example](https://codesandbox.io/s/glareone-context-example-liej5?file=/src/AppInner.js)
+
+### Context + Custom Hook for Context
+[Context & Custom Hook](https://codesandbox.io/s/glareone-context-customhook-example-th6bg?file=/src/AppInner.js)
