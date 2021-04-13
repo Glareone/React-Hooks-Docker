@@ -6,6 +6,8 @@ Interesting Sites:
 ### Use State
 [Use State Example](https://codesandbox.io/s/glareone-usestate-initial-28q54)
 
+[UseState with PrevState](https://codesandbox.io/s/usestate-prevstate-xcjh0?file=/src/App.js)
+
 #### Use Effect
 [Use Effect Example](https://codesandbox.io/s/glareone-useeffect-example-uxzsf)
 
