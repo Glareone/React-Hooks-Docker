@@ -18,6 +18,9 @@ Interesting Sites:
 #### Use Reducer
 [Use Reducer Example](https://codesandbox.io/s/glareone-usereducer-example-b7jt3)
 
+### Context + Reducer (Redux Pattern)
+[UseReducer with Context, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-1t99i?file=/src/components/Blog/blog.js)
+
 ### Use Ref
 [Use Ref Example](https://codesandbox.io/s/glareone-useref-example-jb0li?file=/src/App.js)
 
