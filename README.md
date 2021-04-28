@@ -20,13 +20,14 @@ Interesting Sites:
 
 ### Context + Reducer (Redux Pattern)
 [UseReducer with Context, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-1t99i?file=/src/components/Blog/blog.js)
+[UseFetch + UseReducer + UseContext, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-with-custom-hook-cxpcx?file=/src/hooks/useFetch.js)
 
 ### Use Ref
 [Use Ref Example](https://codesandbox.io/s/glareone-useref-example-jb0li?file=/src/App.js)
 
 ### Custom Hook (useState custom hook, useFetch custom hook)
 [Use Custom Hooks Example](https://codesandbox.io/s/glareone-custom-hooks-example-22h2i?file=/src/App.js)  
-[UseFetch Custom Hook (Call to Github) Example](https://codesandbox.io/s/glareone-usefetch-bb3cr?file=/src/App.js)  
+[UseFetch Custom Hook (Call to Github) Example](https://codesandbox.io/s/glareone-usefetch-bb3cr?file=/src/App.js) 
 
 ### Context: CreateContext, UseContext
 [Context Example](https://codesandbox.io/s/glareone-context-example-liej5?file=/src/AppInner.js)
