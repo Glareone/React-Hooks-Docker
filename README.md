@@ -38,8 +38,8 @@ Interesting Sites:
 [UseFetch + UseReducer + UseContext, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-with-custom-hook-cxpcx?file=/src/hooks/useFetch.js)  
 
 #### [Advanced][Typescript] Context + combineReducers + Multiple Storages + SCSS (ContextAPI) 
-[UseReducer, combineReducers, ContextAPI](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-typescript-eyf97h)
-[UseReducer, combineReducers, ContextAPI, SCSS](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-scss-typescript-gcw6be)
+[UseReducer, combineReducers, ContextAPI](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-typescript-eyf97h)  
+[UseReducer, combineReducers, ContextAPI, SCSS](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-scss-typescript-gcw6be)  
 
 
 
