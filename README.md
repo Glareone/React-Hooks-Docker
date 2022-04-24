@@ -22,6 +22,9 @@ Interesting Sites:
 [UseReducer with Context, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-1t99i?file=/src/components/Blog/blog.js)  
 [UseFetch + UseReducer + UseContext, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-with-custom-hook-cxpcx?file=/src/hooks/useFetch.js)  
 
+### Context + combineReducers + Multiple Storages + typescript
+[UseReducer, combineReducers, ContextAPI](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-typescript-eyf97h)
+
 ### Use Ref
 [Use Ref Example](https://codesandbox.io/s/glareone-useref-example-jb0li?file=/src/App.js)
 
