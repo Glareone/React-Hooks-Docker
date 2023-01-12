@@ -1,4 +1,7 @@
 # React-Hooks & Dockerfile + nginx example
+[Docker file for React Production in Azure Kubernetes](https://github.com/Glareone/React-Hooks/blob/master/Dockerfile.standalone)  
+[nginx file which is suitable for React standalone in Azure Kubernetes](https://github.com/Glareone/React-Hooks/blob/master/nginx.conf)  
+
 Interesting Sites:  
 * [USE HOOKS](https://usehooks.com/)
 * [RW;ERUCH](https://www.robinwieruch.de/blog)
