@@ -1,4 +1,4 @@
-# React-Hooks
+# React-Hooks & Dockerfile + nginx example
 Interesting Sites:  
 * [USE HOOKS](https://usehooks.com/)
 * [RW;ERUCH](https://www.robinwieruch.de/blog)
