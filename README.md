@@ -1,6 +1,12 @@
-# React-Hooks & Dockerfile + nginx example
+# Kubernetes. React app Dockerfile + nginx example
+### Examples
 [Docker file for React Production in Azure Kubernetes](https://github.com/Glareone/React-Hooks/blob/master/Dockerfile.standalone)  
 [nginx file which is suitable for React standalone in Azure Kubernetes](https://github.com/Glareone/React-Hooks/blob/master/nginx.conf)  
+
+### Redshift
+* In order to make it suitable for RedShift you need to update dockerfile and Deployment:
+  - `runAsNonRoot: true`  
+  - Dockerfile USER. Better explained here: https://juffalow.com/blog/javascript/non-root-containers-in-kubernetes
 
 Interesting Sites:  
 * [USE HOOKS](https://usehooks.com/)
