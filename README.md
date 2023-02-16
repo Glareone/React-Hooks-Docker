@@ -39,7 +39,8 @@ Interesting Sites:
 [UseFetch Custom Hook (Call to Github) Example](https://codesandbox.io/s/glareone-usefetch-bb3cr?file=/src/App.js)  
 
 #### [Intermediate] SetInterval and how to properly handle it using custom Hook
-[SetInterval]https://codesandbox.io/s/lingering-mountain-hq9rpy?file=/src/useHook.js
+[SetInterval](https://codesandbox.io/s/lingering-mountain-hq9rpy?file=/src/useHook.js)
+* good article written by Dan Abramov could be found here: https://overreacted.io/making-setinterval-declarative-with-react-hooks/
 
 ## Context
 
