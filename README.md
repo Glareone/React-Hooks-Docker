@@ -38,6 +38,9 @@ Interesting Sites:
 [Use Custom Hooks Example](https://codesandbox.io/s/glareone-custom-hooks-example-22h2i?file=/src/App.js)  
 [UseFetch Custom Hook (Call to Github) Example](https://codesandbox.io/s/glareone-usefetch-bb3cr?file=/src/App.js)  
 
+#### [Intermediate] SetInterval and how to properly handle it using custom Hook
+[SetInterval]https://codesandbox.io/s/lingering-mountain-hq9rpy?file=/src/useHook.js
+
 ## Context
 
 #### [Intermediate] Simple useContext createContext Example
