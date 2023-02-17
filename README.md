@@ -45,14 +45,14 @@ Interesting Sites:
 ## Context
 
 #### [Intermediate] Simple useContext createContext Example
-[useContext CreateContext Example](https://codesandbox.io/s/glareone-context-example-liej5?file=/src/AppInner.js)
-[Simple useContext + Custom Hook for Context](https://codesandbox.io/s/glareone-context-customhook-example-th6bg?file=/src/AppInner.js)
+[useContext CreateContext Example](https://codesandbox.io/s/glareone-context-example-liej5?file=/src/AppInner.js)  
+[Simple useContext + Custom Hook for Context](https://codesandbox.io/s/glareone-context-customhook-example-th6bg?file=/src/AppInner.js)  
 
 #### [Intermediate][Javascript] Context + Reducer (Redux Pattern, contextApi)
-[UseReducer with Context, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-1t99i?file=/src/components/Blog/blog.js)  
+[UseReducer with Context, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-1t99i?file=/src/components/Blog/blog.js)   
 [UseFetch + UseReducer + UseContext, Redux Pattern](https://codesandbox.io/s/glareone-context-reducer-with-custom-hook-cxpcx?file=/src/hooks/useFetch.js)  
 
-#### [Advanced][Typescript] Context + combineReducers + Multiple Storages + SCSS (ContextAPI) 
+#### [Advanced][Typescript] Context + combineReducers + Multiple Storages + SCSS (ContextAPI)  
 [UseReducer, combineReducers, ContextAPI](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-typescript-eyf97h)   
 [UseReducer, combineReducers, ContextAPI, SCSS](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-scss-typescript-gcw6be)   
 IN PROGRESS: [env, Login with Okta](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-scss-env-config-typescript-f02sd3)  
