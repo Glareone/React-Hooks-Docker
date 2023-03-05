@@ -1,7 +1,9 @@
 # React in Kubernetes. React app Dockerfile + nginx example
-### Kubernetes
+### Kubernetes & Docker
 [Docker file for React Production in Azure Kubernetes](https://github.com/Glareone/React-Hooks/blob/master/Dockerfile.standalone)  
 [nginx file which is suitable for React standalone in Azure Kubernetes](https://github.com/Glareone/React-Hooks/blob/master/nginx.conf)  
+
+Good article regarding Dockerizing React App: https://dev.to/karanpratapsingh/dockerize-your-react-app-4j2e
 
 ### Redshift
 * In order to make it suitable for RedShift you need to update dockerfile and Deployment:
