@@ -59,5 +59,14 @@ Interesting Sites:
 [UseReducer, combineReducers, ContextAPI, SCSS](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-scss-typescript-gcw6be)   
 IN PROGRESS: [env, Login with Okta](https://codesandbox.io/s/glareone-contextapi-combinereducer-multiplestore-scss-env-config-typescript-f02sd3)  
 
+## Ajax Polling vs Long-Polling vs WebSocket
+
+![image](https://github.com/Glareone/React-Hooks-Docker/assets/4239376/88b71217-56d1-4d91-9587-28266bc972a4)
+![image](https://github.com/Glareone/React-Hooks-Docker/assets/4239376/9dcae1f9-ef7c-43d4-9fd0-b18e4c41e64f)
+![image](https://github.com/Glareone/React-Hooks-Docker/assets/4239376/0565d692-cb6a-4632-8f8a-0e845ab6e85b)
+![image](https://github.com/Glareone/React-Hooks-Docker/assets/4239376/468f18d4-2667-4b3e-bd7a-560b24805a9e)
+
+
+
 
 
